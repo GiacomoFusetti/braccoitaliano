@@ -29,7 +29,8 @@
     "pg": "7.8.2",
     "serve-static": "1.13.2",
     "sqlite3": "4.0.4",
-    "swagger-tools": "^0.10.4"
+    "swagger-tools": "^0.10.4",
+    "node": "12.16.3"
   },
   "bugs": {
     "url": "https://github.com/GiacomoFusetti/Hypermedia-Application/issues"

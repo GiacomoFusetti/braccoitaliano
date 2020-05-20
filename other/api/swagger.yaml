@@ -1,10 +1,10 @@
 swagger: "2.0"
 info:
-  description: "This is a simple bookstore server with a book inventory, users and a shopping cart."
+  description: "This is a simple web site server with a dog inventory, owners and users."
   version: "1.0.0"
-  title: "Simple Bookstore"
+  title: "Simple Web site"
   contact:
-    email: "10451768@polimi.it"
+    email: "zibri.jack.92@gmail.com"
   license:
     name: "Apache 2.0"
     url: "http://www.apache.org/licenses/LICENSE-2.0.html"

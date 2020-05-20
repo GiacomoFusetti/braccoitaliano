@@ -1,7 +1,7 @@
 {
-  "name": "bookstore",
+  "name": "braccoitaliano",
   "version": "1.0.0",
-  "description": "A simple Bookstore",
+  "description": "A simple web site",
   "main": "index.js",
   "scripts": {
     "prestart": "npm install",
@@ -15,7 +15,7 @@
     "swagger",
     "nodejs"
   ],
-  "author": "Giovanni",
+  "author": "Giacomo",
   "license": "Unlicense",
   "private": true,
   "dependencies": {
@@ -24,7 +24,7 @@
     "cookie-session": "1.3.3",
     "express": "^4.16.4",
     "js-yaml": "^3.3.0",
-    "knex": "0.16.3",
+    "knex": "0.19.5",
     "lodash": "^4.17.10",
     "pg": "7.8.2",
     "serve-static": "1.13.2",

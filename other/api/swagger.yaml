@@ -1,6 +1,6 @@
 swagger: "2.0"
 info:
-  description: "This is a simple web site server with a dog inventory, owners and users."
+  description: "This is a simple web site server with a dog inventory and users."
   version: "1.0.0"
   title: "Simple Web site"
   contact:

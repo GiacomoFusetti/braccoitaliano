@@ -1,0 +1,42 @@
+[
+    {
+        "id_genre" : 1,
+        "name" : "Fantasy"
+    },
+    
+    {
+        "id_genre" : 2,
+        "name" : "Cooking"
+    },
+    
+    {
+        "id_genre" : 3,
+        "name" : "Children"
+    },
+    
+    {
+        "id_genre" : 4,
+        "name" : "Technology"
+    },
+    
+    {
+        "id_genre" : 5,
+        "name" : "History"
+    },
+        
+    {
+        "id_genre" : 6,
+        "name" : "Drama"
+    },
+    
+    {
+        "id_genre" : 7,
+        "name" : "Business"
+    },
+    
+    {
+        "id_genre" : 8,
+        "name" : "Romance"
+    }
+    
+]

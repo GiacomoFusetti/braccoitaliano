@@ -1,0 +1,61 @@
+[
+    {
+        "id_theme" : 1,
+        "theme_name" : "Frienship"     
+    },
+	
+	{
+        "id_theme" : 2,
+        "theme_name" : "War"            
+    },
+	
+	{
+        "id_theme" : 3,
+        "theme_name" : "Learning"         
+    },
+	
+	{
+        "id_theme" : 4,
+        "theme_name" : "Death"         
+    },
+	
+	{
+        "id_theme" : 5,
+        "theme_name" : "Courage"         
+    },
+	
+	{
+        "id_theme" : 6,
+        "theme_name" : "Diet"         
+    },
+	
+	{
+        "id_theme" : 7,
+        "theme_name" : "Erotism"         
+    },
+	
+	{
+        "id_theme" : 8,
+        "theme_name" : "Love"         
+    },
+	
+	{
+        "id_theme" : 9,
+        "theme_name" : "Violence"         
+    },
+	
+	{
+        "id_theme" : 10,
+        "theme_name" : "Culture"         
+    },
+	
+	{
+        "id_theme" : 11,
+        "theme_name" : "Educational"         
+    },
+	
+	{
+        "id_theme" : 12,
+        "theme_name" : "Magic"         
+    }
+]

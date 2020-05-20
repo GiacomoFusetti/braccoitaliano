@@ -1,0 +1,304 @@
+/*======================================
+//--//-->   STYLES BOOK by genre/theme
+======================================*/
+
+.link_style{
+	font-size: 90%;
+}
+
+.title-box-d .title-d:after {
+  content: '';
+  position: absolute;
+  width: 25px;
+  height: 4px;
+  background-color: #00983d;
+  bottom: 10px;
+  left: 0;
+}
+
+.title-box-d {
+    padding-bottom: 0.5rem;
+    position: relative;
+    margin-bottom: 0rem;
+}
+
+.list-by {
+    padding-left: 15px;
+    list-style: none;
+}
+
+.list-font {
+    font-size: large;
+}
+/*======================================
+//--//-->   STYLES BOOK 
+======================================*/
+
+.price-button {
+  color: #000000;
+  padding: .6rem .8rem;
+  border: 2px solid #555555;
+  border-radius: 0px;
+  letter-spacing: 0.030em;
+  cursor: pointer;
+  line-height: initial;
+
+}
+
+.price-button.active {
+  border: 3px solid #00983d;
+}
+
+.price-box {
+    padding: 20px 10px 20px 10px;
+    line-height: 45px;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+    display: inherit;
+}
+
+.book_carousel {
+    width: 175px!important;
+    margin-right: 10px!important;
+}
+
+.authors-font {
+	font-size: 20px;
+}
+
+/*======================================
+//--//-->   STYLES BOOKS REVIEW
+======================================*/
+
+.font-i {
+    font-style: italic;
+}
+
+.rev-align {
+    text-align: center;
+}
+
+.writer {
+    text-align: right;
+}
+
+/*======================================
+//--//-->   STYLES BOOKS GRID
+======================================*/
+.padding-col {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.card-body {
+	padding: 5px;
+}
+.card{
+	border: none;
+    border-radius: none;
+	height: 100%;
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: contain;
+	object-position: left bottom;
+}
+
+.card-img-top-list { 
+  	width: 100%;
+    height: 12vw;
+    object-fit: contain;
+	object-position: left bottom;
+}
+
+.overlap-img {
+    z-index: 1500
+}
+
+/* On screens that are 1920px or less */
+@media screen and (max-width: 1400px) {
+  .card-img-top {
+	  height: 21vw;
+	}
+  .card-img-top-list { 
+  	height: 17vw;
+  }
+}
+
+/* On screens that are 1200px or less */
+@media screen and (max-width: 1200px) {
+  .card-img-top { 
+  	height: 19vw;
+  }
+  .card-img-top-list { 
+  	height: 19vw;
+  }
+}
+
+/* On screens that are 992px or less */
+@media screen and (max-width: 993px) {
+	.card-img-top { 
+    	height: 22vw;
+  	}
+	.font-90{
+		font-size: 85%!important;
+	}
+	.font-85{
+		font-size: 83%!important;
+	}
+	.card-img-top-list { 
+  		height: 26vw;
+    }
+    
+}
+
+/* On screens that are 768px or less */
+@media screen and (max-width: 769px) {
+  .card-img-top { 
+  	height: 28vw;
+  }
+	.card-img-top-list { 
+  		height: 29vw;
+  	}
+}
+
+/* On screens that are 540px or less*/
+@media screen and (max-width: 541px) {
+	.card-img-top { 
+		height: 60vw;
+	}
+	.font-90{
+		font-size: 90%!important;
+	}
+	.card-img-top-list { 
+  		height: 55vw;
+  	}
+}
+
+.pointer-a {
+	cursor: pointer;
+}
+
+.font-90 {
+	font-size: 90%;
+}
+
+.font-85 {
+	font-size: 85%;
+}
+
+.book-img-margin {
+	margin: auto 0px;
+}
+
+.book-img-margin-child {
+	
+}
+
+.author_list {
+	margin-bottom: 5px;
+}
+
+.h6_sidebar_margin{
+    margin-bottom: 0px;
+}
+
+.book_desc {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.book_rating {
+    text-align: center;
+}
+
+.book_author {
+    padding-top: 0px; 
+    padding-bottom: 0px;
+	margin: 0px;
+}
+
+.book_author_li{
+    padding-top: 0px; 
+    padding-bottom: 0px;
+	margin: 0px;
+}
+
+.book_title {
+    padding-top: 0px;
+}
+
+.price_text,
+.rating_text {
+    display: inline;
+}
+
+@media screen and (max-width: 1200px) {
+    .price_text,
+    .rating_text{
+        display: none;
+    }
+}
+
+
+@media screen and (max-width: 992px) {
+    .book_title{
+        font-size: 15px !important;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .book_title{
+        font-size: initial !important;
+    }
+    .price_text,
+    .rating_text{
+        display: inline;
+    }
+}
+
+/*======================================
+//--//-->   STYLES BOOKS FILTERS
+======================================*/
+
+.filter-div-title {
+	cursor: pointer;
+}
+
+.filters-body {
+	flex: 1 1 auto;
+    padding: 10px 0px 10px 5px;
+}
+
+.form-check {
+	 padding: 0px 10px 0px 10px;
+}
+
+.card-header {
+	cursor: pointer !important;
+}
+
+header.card-header:hover {
+	background-color: #adadad;
+}
+
+.active_filter {
+	padding-bottom: 10px;
+}
+
+/*======================================
+//--//-->   STYLE SEARCH INSERT FORM 
+======================================*/
+
+.search-position {
+	margin-left: auto !important;
+	width: 200px !important;  
+}
+
+.search {
+	border-radius: 0;
+}

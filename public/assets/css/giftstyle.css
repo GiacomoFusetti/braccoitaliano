@@ -1,0 +1,28 @@
+/*======================================
+//--//-->   STYLES GIFT 
+======================================*/
+
+.price-button {
+  color: #000000;
+  padding: .6rem .8rem;
+  border: 2px solid #555555;
+  border-radius: 0px;
+  letter-spacing: 0.030em;
+  cursor: pointer;
+  line-height: initial;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.price-button.active {
+  border: 3px solid #00983d;
+}
+
+.price-box{
+    padding: 20px 10px 20px 10px;
+    line-height: 45px;
+}
+
+.text_block{
+	display: block;
+}

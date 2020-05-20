@@ -1,0 +1,80 @@
+/*======================================
+//--//-->   STYLES AUTHORS
+======================================*/
+
+.card-footer-e {
+  width: 100%;
+  position: absolute;
+  z-index: 2;
+  background-color: #00983d;
+  margin-top: 100%;
+}
+
+.book_carousel{
+    width: 175px!important;
+    margin-right: 10px!important;
+}
+
+.card-info-title-color {
+    color: #ffffff !important;
+}
+
+.container_img{
+    position: relative; 
+    max-width: 800px; /* Maximum width */
+}
+
+/* Bottom left text */
+.container_img .bottom_center {
+  position: absolute; /* Position the background text */
+  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  background: #00983d; /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  width: 100%; /* Full width */
+  padding: 20px; /* Some padding */
+}
+
+.color_white{
+    color: #f1f1f1; /* Grey text */
+}
+
+.font-70{
+	font-size: 90%;
+}
+
+.book-img-margin{
+	margin: auto 0px;
+}
+
+.agent-content{
+	text-align: justify;
+}
+
+.author_list{
+	margin-bottom: 5px;
+}
+
+.authors-font{
+	font-size: 20px;
+}
+
+@media screen and (max-width: 992px) {
+    .bottom_center{
+        padding: 10px !important;
+        font-size: 15px !important; 
+    }
+}
+
+/*======================================
+//--//-->   STYLE SEARCH INSERT FORM 
+======================================*/
+
+.search-position{
+	margin-left: auto !important;
+	width: 200px !important; 
+}
+
+.search{
+	border-radius: 0;
+}

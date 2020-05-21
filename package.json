@@ -31,7 +31,7 @@
     "lodash": "^4.17.10",
     "pg": "7.8.2",
     "serve-static": "1.13.2",
-    "sqlite3": "4.0.4",
+    //"sqlite3": "4.0.4",
     "swagger-tools": "^0.10.4"
   },
   "bugs": {
